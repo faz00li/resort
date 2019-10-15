@@ -1,0 +1,26 @@
+nav {
+    font-size: 18px;
+    background-color: #3984af;
+    height: 35px;
+
+}
+
+
+nav li {
+    display: inline-flex;
+    margin-right: 15px;
+    font-weight: 600;
+    height: 35px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+nav li:hover {
+    background-color: #7cb2d1;
+}
+
+nav a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+}
